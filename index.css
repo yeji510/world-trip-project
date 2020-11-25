@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+    padding: 0;
+}
+body{
+    margin: 0;
+   background-color: rgb(115, 190, 255); 
+   border: solid 1px red;
+   height: 100%;
+}
+img{
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+.map-box{
+    text-align: center;
+}
+.container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px red;
+}
